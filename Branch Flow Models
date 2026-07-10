@@ -1,7 +1,0 @@
-Contains different branch flow based optimization models:
-
-- Nonlinear AC DOPF
-- Second Order Cone Programming (SOCP) AC DOPF
-- Semi Definite Programming(SDP) AC DOPF
-- Linearized (Lindist3flow) AC DOPF
-
