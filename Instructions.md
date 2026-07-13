@@ -5,6 +5,6 @@
 2. Load the DOPF Model/ Models
 - Distribution-Grid-Optimal-Power-Flow-Models-DOPF/branchflow_models/Lindist3flow/Non linear DOPF/ SDP/ SOCP
 - The DOPF model is loaded into Google Collab or local computer
-- Upload the Network Paramter
+- Upload the Network Parameter
 - Run and visualize the results
 
