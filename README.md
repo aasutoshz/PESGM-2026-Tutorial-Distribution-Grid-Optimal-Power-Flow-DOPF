@@ -1,5 +1,16 @@
 ## Distribution-Grid-Optimal-Power-Flow-DOPF-Model
-The Optimal Power Flow Models for Distribution Grid Network, based on the Branch- flow fomrulation.
+A comprehensive collection of Distribution Optimal Power Flow (DOPF) models for active distribution networks based on the branch-flow formulation. This repository provides mathematical formulations and optimization frameworks for the unbalanced distribution systems with distributed energy resources (DERs).
+
+The repository includes implementations of nonlinear programming (NLP), second-order cone programming (SOCP), semidefinite programming (SDP), and linear powerflow model for solving multiphase optimal power flow problems. Application for loss minimization and volatge deviation is demonstrated but the problem formulation can be extended to use for various objective problem formulations.
+
+## Features
+
+- Branch-flow-based DOPF formulations for radial distribution networks
+- Multiphase unbalanced power flow modeling
+- NLP, SOCP, and SDP optimization models
+- IEEE test feeder implementations and case studies
+- Convex relaxation and approximation techniques for scalable optimization
+
 
 ## Contributor
 
