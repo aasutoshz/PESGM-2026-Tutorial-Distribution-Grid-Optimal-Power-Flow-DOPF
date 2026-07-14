@@ -15,7 +15,7 @@ The repository includes implementations of nonlinear programming (NLP), second-o
 ## Contributors
 This repository contains Python-based optimization models and distribution network test feeder data is developed by and contribution of:
 
-**Aashutosh Neupane** - Florida International University, USA
+**Aashutosh Neupane** - Florida International University (FIU), USA
 
 This Python code was derived from the MATLAB code, tested on the first 20 nodes of the IEEE 123 Node Test Feeder. The contributors of the MATLAB code are:
 
