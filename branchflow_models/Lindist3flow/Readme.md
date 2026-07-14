@@ -1,6 +1,6 @@
 # Dependencies
 
-Program: Python
+Programming language: Python
 
 Solver used: HIGHS
 
