@@ -1,4 +1,4 @@
-##SDP
+# SDP
 
 Programming language: Python
 
