@@ -25,3 +25,5 @@ Linear approximation of three-phase distribution feeder power flow for computati
 - IDAES
 - NumPy
 - Pandas
+- HIGHS
+- SCS
