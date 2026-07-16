@@ -7,7 +7,7 @@ The repository includes implementations of nonlinear programming (NLP), second-o
 
 - Branch-flow-based DOPF formulations for radial distribution networks
 - Multiphase unbalanced power flow modeling
-- NLP, SOCP, and SDP optimization models
+- NLP, SOCP, Lindist3flow and SDP optimization models
 - IEEE test feeder implementations and case studies
 - Convex relaxation and approximation techniques for scalable optimization
 
