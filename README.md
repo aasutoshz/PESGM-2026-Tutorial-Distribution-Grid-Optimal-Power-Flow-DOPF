@@ -13,7 +13,7 @@ The repository includes implementations of nonlinear programming (NLP), second-o
 
 
 ## Contributors
-This repository contains Python-based optimization models and distribution network test feeder data is developed by and contribution of:
+This repository contains Python-based optimization models and distribution network test feeder data. The models, dataset, and supporting tools was developed by:
 
 **Aashutosh Neupane** - Florida International University (FIU), USA
 
