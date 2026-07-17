@@ -29,10 +29,10 @@ This Python code base is built up on previous MATLAB live script (developed and 
 
 ## Citation
 
-If you use this code, model, or any part of this repository in your research, publications, reports, or derivative works, please cite this repository and acknowledge the author.
+If you use this code, model, or any part of this repository in your research, publications, reports, or derivative works, please cite this repository and acknowledge the contributor work as.
 
-> A. Neupane, S. Paudyal and O. Ceylan, "Dynamic Droop Setting of Smart Inverters for Volt-VAr Control in Active Distribution Grids," *2025 IEEE Power & Energy Society General Meeting (PESGM)*, Austin, TX, USA, 2025.
-> DOI: https://doi.org/10.1109/PESGM52009.2025.11225698
+Neupane, A., Inaolaji, A., Paudyal, S., Dubey, A., & Kamalasadan, S. Distribution-Grid-Optimal-Power-Flow-Models-DOPF (Version 1.0.0) [Computer software]. https://github.com/aasutoshz/PESGM-2026-Tutorial-Distribution-Grid-Optimal-Power-Flow-DOPF
 
-> A. Neupane and S. Paudyal, "Dynamic Droop Setting of Smart Inverters in Active Distribution Grid Using Neural Networks," 2024 56th North American Power Symposium (NAPS), El Paso, TX, USA, 2024, pp. 1-6.
-> DOI: https://doi.org/10.1109/NAPS61145.2024.10741718
+[![DOI](https://zenodo.org/badge/1296696171.svg)](https://doi.org/10.5281/zenodo.21404605)
+
+
