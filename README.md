@@ -33,6 +33,10 @@ If you use this code, model, or any part of this repository in your research, pu
 
 A. Neupane, S. Paudyal, A. Dubey, S. Kamalasadanand A. Inaolaji, aasutoshz/PESGM-2026-Tutorial-Distribution-Grid-Optimal-Power-Flow-DOPF: DOPF PESGM Tutorial 2026 (python)- Jupter Notebook. (Jul. 17, 2026). Zenodo. doi: 10.5281/zenodo.21404606.
 
+Neupane, A., Inaolaji, A., Paudyal, S., Dubey, A., & Kamalasadan, S. Distribution-Grid-Optimal-Power-Flow-Models-DOPF (Version 1.0.0) [Computer software]. https://github.com/aasutoshz/PESGM-2026-Tutorial-Distribution-Grid-Optimal-Power-Flow-DOPF
+
+doi: 10.5281/zenodo.21404606.
+
 [![DOI](https://zenodo.org/badge/1296696171.svg)](https://doi.org/10.5281/zenodo.21404605)
 
 
