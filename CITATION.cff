@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Distribution-Grid-Optimal-Power-Flow-Models-DOPF"
+message: "If you use this code, model, or any part of this repository in your research, publications, reports, or derivative works, please cite this repository and acknowledge the author as."
+type: software
+
+authors:
+  - family-names: Neupane
+    given-names: Aasutosh
+  - family-names: Inaolaji 
+    given-names: Adedoyin
+  - family-names: Paudyal
+    given-names: Sumit
+  - family-names: Dubey
+    given-names: Anamika
+  - family-names: Kamalasadan
+    given-names: Sukumar
+
+version: 1.0.0
+
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21404606
+
+repository-code: "https://github.com/aasutoshz/PESGM-2026-Tutorial-Distribution-Grid-Optimal-Power-Flow-DOPF"
+license: MIT
