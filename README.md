@@ -1,1 +1,1 @@
-This is the Repositery for the Distribution Grid Optimal Power flow Models.
+This is the Repository for the Distribution Grid Optimal Power flow Models.
