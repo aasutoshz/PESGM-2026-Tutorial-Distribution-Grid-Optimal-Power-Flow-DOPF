@@ -1,4 +1,4 @@
-# Further Papers for Reading
+# DOPF Formulation Papers 
 
 1. Sankur, Michael & Dobbe, Roel & Stewart, Emma & Callaway, Duncan & Arnold, Daniel. (2016). A Linearized Power Flow Model for Optimization in Unbalanced Distribution Systems. 10.48550/arXiv.1606.04492. 
 2. Jabr, R.A.. (2006). Radial Distribution Load Flow Using Conic Programming. IEEE Transactions on Power Systems. 21. 1458-1459. 10.1109/TPWRS.2006.879234. 
